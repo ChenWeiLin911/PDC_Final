@@ -1,6 +1,6 @@
 ccai_demo/
 FCN_weights_v0/
-logs/*
+fourcastnet_project_integration/FourCastNet/logs/*
 .err
 .out
 .csv
