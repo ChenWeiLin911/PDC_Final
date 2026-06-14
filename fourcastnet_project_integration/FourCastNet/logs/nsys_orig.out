@@ -1,0 +1,101 @@
+/work/HPC_SYS/twnia2/pkg-rocky8/nvidia/cuda/cuda-11.7/bin/nsys
+/home/r14525127/.conda/envs/pdc_fcn/bin/python
+Python 3.10.20
+Capture range started in the application.
+Generating '/tmp/nsys-report-4040.qdstrm'
+Capture range ended in the application.
+[1/8] [0%                          ] afno_original_949986.nsys-rep[1/8] [0%                          ] afno_original_949986.nsys-rep[1/8] [=15%                        ] afno_original_949986.nsys-rep[1/8] [=16%                        ] afno_original_949986.nsys-rep[1/8] [=17%                        ] afno_original_949986.nsys-rep[1/8] [==18%                       ] afno_original_949986.nsys-rep[1/8] [==19%                       ] afno_original_949986.nsys-rep[1/8] [==20%                       ] afno_original_949986.nsys-rep[1/8] [==21%                       ] afno_original_949986.nsys-rep[1/8] [===22%                      ] afno_original_949986.nsys-rep[1/8] [===============67%          ] afno_original_949986.nsys-rep[1/8] [===================80%      ] afno_original_949986.nsys-rep[1/8] [========================100%] afno_original_949986.nsys-rep[1/8] [========================100%] afno_original_949986.nsys-rep
+[2/8] [0%                          ] afno_original_949986.sqlite[2/8] [1%                          ] afno_original_949986.sqlite[2/8] [2%                          ] afno_original_949986.sqlite[2/8] [3%                          ] afno_original_949986.sqlite[2/8] [4%                          ] afno_original_949986.sqlite[2/8] [5%                          ] afno_original_949986.sqlite[2/8] [6%                          ] afno_original_949986.sqlite[2/8] [7%                          ] afno_original_949986.sqlite[2/8] [8%                          ] afno_original_949986.sqlite[2/8] [9%                          ] afno_original_949986.sqlite[2/8] [10%                         ] afno_original_949986.sqlite[2/8] [11%                         ] afno_original_949986.sqlite[2/8] [12%                         ] afno_original_949986.sqlite[2/8] [13%                         ] afno_original_949986.sqlite[2/8] [14%                         ] afno_original_949986.sqlite[2/8] [=15%                        ] afno_original_949986.sqlite[2/8] [=16%                        ] afno_original_949986.sqlite[2/8] [=17%                        ] afno_original_949986.sqlite[2/8] [==18%                       ] afno_original_949986.sqlite[2/8] [==19%                       ] afno_original_949986.sqlite[2/8] [==20%                       ] afno_original_949986.sqlite[2/8] [==21%                       ] afno_original_949986.sqlite[2/8] [===22%                      ] afno_original_949986.sqlite[2/8] [===23%                      ] afno_original_949986.sqlite[2/8] [===24%                      ] afno_original_949986.sqlite[2/8] [====25%                     ] afno_original_949986.sqlite[2/8] [====26%                     ] afno_original_949986.sqlite[2/8] [====27%                     ] afno_original_949986.sqlite[2/8] [====28%                     ] afno_original_949986.sqlite[2/8] [=====29%                    ] afno_original_949986.sqlite[2/8] [=====30%                    ] afno_original_949986.sqlite[2/8] [=====31%                    ] afno_original_949986.sqlite[2/8] [=====32%                    ] afno_original_949986.sqlite[2/8] [======33%                   ] afno_original_949986.sqlite[2/8] [======34%                   ] afno_original_949986.sqlite[2/8] [======35%                   ] afno_original_949986.sqlite[2/8] [=======36%                  ] afno_original_949986.sqlite[2/8] [=======37%                  ] afno_original_949986.sqlite[2/8] [=======38%                  ] afno_original_949986.sqlite[2/8] [=======39%                  ] afno_original_949986.sqlite[2/8] [========40%                 ] afno_original_949986.sqlite[2/8] [========41%                 ] afno_original_949986.sqlite[2/8] [========42%                 ] afno_original_949986.sqlite[2/8] [=========43%                ] afno_original_949986.sqlite[2/8] [=========44%                ] afno_original_949986.sqlite[2/8] [=========45%                ] afno_original_949986.sqlite[2/8] [=========46%                ] afno_original_949986.sqlite[2/8] [==========47%               ] afno_original_949986.sqlite[2/8] [==========48%               ] afno_original_949986.sqlite[2/8] [==========49%               ] afno_original_949986.sqlite[2/8] [===========50%              ] afno_original_949986.sqlite[2/8] [===========51%              ] afno_original_949986.sqlite[2/8] [===========52%              ] afno_original_949986.sqlite[2/8] [===========53%              ] afno_original_949986.sqlite[2/8] [============54%             ] afno_original_949986.sqlite[2/8] [============55%             ] afno_original_949986.sqlite[2/8] [============56%             ] afno_original_949986.sqlite[2/8] [============57%             ] afno_original_949986.sqlite[2/8] [=============58%            ] afno_original_949986.sqlite[2/8] [=============59%            ] afno_original_949986.sqlite[2/8] [=============60%            ] afno_original_949986.sqlite[2/8] [==============61%           ] afno_original_949986.sqlite[2/8] [==============62%           ] afno_original_949986.sqlite[2/8] [==============63%           ] afno_original_949986.sqlite[2/8] [==============64%           ] afno_original_949986.sqlite[2/8] [===============65%          ] afno_original_949986.sqlite[2/8] [===============66%          ] afno_original_949986.sqlite[2/8] [===============67%          ] afno_original_949986.sqlite[2/8] [================68%         ] afno_original_949986.sqlite[2/8] [================69%         ] afno_original_949986.sqlite[2/8] [================70%         ] afno_original_949986.sqlite[2/8] [================71%         ] afno_original_949986.sqlite[2/8] [=================72%        ] afno_original_949986.sqlite[2/8] [=================73%        ] afno_original_949986.sqlite[2/8] [=================74%        ] afno_original_949986.sqlite[2/8] [==================75%       ] afno_original_949986.sqlite[2/8] [==================76%       ] afno_original_949986.sqlite[2/8] [==================77%       ] afno_original_949986.sqlite[2/8] [==================78%       ] afno_original_949986.sqlite[2/8] [===================79%      ] afno_original_949986.sqlite[2/8] [===================80%      ] afno_original_949986.sqlite[2/8] [===================81%      ] afno_original_949986.sqlite[2/8] [===================82%      ] afno_original_949986.sqlite[2/8] [====================83%     ] afno_original_949986.sqlite[2/8] [====================84%     ] afno_original_949986.sqlite[2/8] [====================85%     ] afno_original_949986.sqlite[2/8] [=====================86%    ] afno_original_949986.sqlite[2/8] [=====================87%    ] afno_original_949986.sqlite[2/8] [=====================88%    ] afno_original_949986.sqlite[2/8] [=====================89%    ] afno_original_949986.sqlite[2/8] [======================90%   ] afno_original_949986.sqlite[2/8] [======================91%   ] afno_original_949986.sqlite[2/8] [======================92%   ] afno_original_949986.sqlite[2/8] [=======================93%  ] afno_original_949986.sqlite[2/8] [=======================94%  ] afno_original_949986.sqlite[2/8] [=======================95%  ] afno_original_949986.sqlite[2/8] [=======================96%  ] afno_original_949986.sqlite[2/8] [========================97% ] afno_original_949986.sqlite[2/8] [========================98% ] afno_original_949986.sqlite[2/8] [========================99% ] afno_original_949986.sqlite[2/8] [========================100%] afno_original_949986.sqlite[2/8] [========================100%] afno_original_949986.sqlite
+gpu_name Tesla V100-SXM2-32GB
+gpu_capability (7, 0)
+impl original
+shape (1, 90, 180, 768)
+num_blocks 8
+AFNO input shape: torch.Size([1, 90, 180, 768])
+num_blocks: 8
+block_size: 96
+w1 shape: torch.Size([2, 8, 96, 96])
+w2 shape: torch.Size([2, 8, 96, 96])
+hard_thresholding_fraction: 1.0
+total_modes: 46
+kept_modes: 46
+warmup_done 5
+profiling_start
+profiling_stop
+profiled_iterations 20
+total_profiled_time_ms 110.84457397460938
+avg_time_per_forward_ms 5.542228698730469
+output_mean_abs 0.7983459234237671
+[3/8] Executing 'nvtxsum' stats report
+
+NVTX Range Statistics:
+
+ Time (%)  Total Time (ns)  Instances    Avg (ns)       Med (ns)      Min (ns)     Max (ns)    StdDev (ns)   Style           Range        
+ --------  ---------------  ---------  -------------  -------------  -----------  -----------  -----------  -------  ---------------------
+    100.0      110,999,656          1  110,999,656.0  110,999,656.0  110,999,656  110,999,656          0.0  PushPop  AFNO_original_profile
+
+[4/8] Executing 'osrtsum' stats report
+
+Operating System Runtime API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls    Avg (ns)       Med (ns)      Min (ns)     Max (ns)    StdDev (ns)         Name        
+ --------  ---------------  ---------  -------------  -------------  -----------  -----------  -----------  -------------------
+     99.7      100,163,301          1  100,163,301.0  100,163,301.0  100,163,301  100,163,301          0.0  poll               
+      0.3          284,032          6       47,338.7       23,947.0        1,266      175,434     67,073.2  ioctl              
+      0.0           18,999          2        9,499.5        9,499.5        8,184       10,815      1,860.4  pthread_cond_signal
+      0.0            7,972          1        7,972.0        7,972.0        7,972        7,972          0.0  mmap               
+      0.0            5,404          1        5,404.0        5,404.0        5,404        5,404          0.0  munmap             
+
+[5/8] Executing 'cudaapisum' stats report
+
+CUDA API Statistics:
+
+ Time (%)  Total Time (ns)  Num Calls    Avg (ns)      Med (ns)     Min (ns)    Max (ns)   StdDev (ns)              Name            
+ --------  ---------------  ---------  ------------  ------------  ----------  ----------  -----------  ----------------------------
+     92.9       76,884,583          1  76,884,583.0  76,884,583.0  76,884,583  76,884,583          0.0  cudaDeviceSynchronize       
+      5.9        4,847,868        800       6,059.8       5,406.0       4,062      51,894      3,009.0  cudaLaunchKernel            
+      0.5          405,742         80       5,071.8       4,745.0       3,251      26,256      2,823.3  cuLaunchKernel              
+      0.4          365,495          1     365,495.0     365,495.0     365,495     365,495          0.0  cudaMalloc                  
+      0.3          239,792         20      11,989.6      11,004.5      10,541      20,697      2,987.4  cudaMemcpyAsync             
+      0.0           19,882          2       9,941.0       9,941.0       4,451      15,431      7,764.0  cudaEventRecord             
+      0.0           17,383          2       8,691.5       8,691.5       3,140      14,243      7,851.0  cudaEventCreateWithFlags    
+      0.0            1,745          1       1,745.0       1,745.0       1,745       1,745          0.0  cudaStreamIsCapturing_v10000
+
+[6/8] Executing 'gpukernsum' stats report
+
+CUDA Kernel Statistics:
+
+ Time (%)  Total Time (ns)  Instances  Avg (ns)   Med (ns)   Min (ns)  Max (ns)   StdDev (ns)                                                  Name                                                
+ --------  ---------------  ---------  ---------  ---------  --------  ---------  -----------  ----------------------------------------------------------------------------------------------------
+     30.5       32,677,007         40  816,925.2  794,251.0   193,855  1,550,200    627,307.1  void regular_fft<(unsigned int)90, EPT<(unsigned int)9, (unsigned int)10>, (unsigned int)8, (unsign…
+     17.0       18,275,520        280   65,269.7   41,071.0    38,560    158,751     39,754.3  void at::native::elementwise_kernel<(int)128, (int)2, void at::native::gpu_kernel_impl_nocast<at::n…
+     10.7       11,452,421        100  114,524.2   37,472.0    36,640    425,598    154,976.4  void at::native::elementwise_kernel<(int)128, (int)2, void at::native::gpu_kernel_impl_nocast<at::n…
+     10.6       11,415,424        160   71,346.4   71,407.5    67,967     76,543      1,742.4  volta_sgemm_32x128_nn                                                                               
+      8.1        8,680,109         20  434,005.5  432,589.0   429,598    441,118      3,635.7  void regular_fft_r2c<(unsigned int)180, EPT<(unsigned int)4, (unsigned int)5, (unsigned int)9>, (un…
+      8.1        8,632,976         20  431,648.8  431,342.0   428,286    436,893      1,947.1  void regular_fft_c2r<(unsigned int)180, EPT<(unsigned int)4, (unsigned int)5, (unsigned int)9>, (un…
+      3.8        4,021,669         80   50,270.9   50,176.0    49,631     51,168        343.9  void at::native::vectorized_elementwise_kernel<(int)4, at::native::CUDAFunctor_add<float>, at::deta…
+      2.9        3,137,358         20  156,867.9  156,863.0   154,880    158,975      1,187.3  void at::native::vectorized_elementwise_kernel<(int)4, at::native::AUnaryFunctor<c10::complex<float…
+      2.3        2,516,178         80   31,452.2   31,280.0    30,880     32,864        458.8  void at::native::vectorized_elementwise_kernel<(int)4, at::native::FillFunctor<float>, at::detail::…
+      2.3        2,513,519         20  125,676.0  125,631.5   125,087    126,271        329.3  void at::native::vectorized_elementwise_kernel<(int)4, at::native::<unnamed>::softshrink_kernel(at:…
+      2.3        2,505,169         20  125,258.5  125,215.0   124,959    126,239        304.4  void at::native::vectorized_elementwise_kernel<(int)4, at::native::AUnaryFunctor<float, float, floa…
+      1.3        1,394,488         40   34,862.2   34,832.0    34,463     35,456        233.2  void at::native::vectorized_elementwise_kernel<(int)4, at::native::<unnamed>::launch_clamp_scalar(a…
+
+[7/8] Executing 'gpumemtimesum' stats report
+
+CUDA Memory Operation Statistics (by time):
+
+ Time (%)  Total Time (ns)  Count  Avg (ns)   Med (ns)   Min (ns)  Max (ns)  StdDev (ns)      Operation     
+ --------  ---------------  -----  ---------  ---------  --------  --------  -----------  ------------------
+    100.0        2,666,224     20  133,311.2  133,199.0   132,704   134,175        418.6  [CUDA memcpy DtoD]
+
+[8/8] Executing 'gpumemsizesum' stats report
+
+CUDA Memory Operation Statistics (by size):
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)      Operation     
+ ----------  -----  --------  --------  --------  --------  -----------  ------------------
+  1,006.387     20    50.319    50.319    50.319    50.319        0.000  [CUDA memcpy DtoD]
+
+Generated:
+    /work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/logs/nsys/afno_original_949986.nsys-rep
+    /work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/logs/nsys/afno_original_949986.sqlite

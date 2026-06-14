@@ -1,0 +1,105 @@
+-----------------------
+loading miniconda3 with conda 24.5.0 and python 3.9
+docs : https://hackmd.io/@kmo/twcc_hpc_conda
+-----------------------
+
+/usr/share/lmod/lmod/init/bash: line 121: conda: command not found
+/usr/share/lmod/lmod/init/bash: line 121: conda: command not found
+--------------------------------
+loading CUDA 11.7 with cuDNN / NCCL
+based on cuda_11.7.1-cudnn8-devel-rockylinux8.sif
+--------------------------------
+
+/work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/inference/inference.py:53: DeprecationWarning: numpy.core.numeric is deprecated and has been renamed to numpy._core.numeric. The numpy._core namespace contains private NumPy internals and its use is discouraged, as NumPy internals can change without warning in any release. In practice, most real-world usage of numpy.core is to access functionality in the public NumPy API. If that is the case, use the public NumPy API. If not, you are using NumPy internals. If you would still like to access an internal attribute, use numpy._core.numeric.False_.
+  from numpy.core.numeric import False_
+/home/r14525127/.conda/envs/pdc_fcn/lib/python3.10/site-packages/timm/models/layers/__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+2026-06-11 12:12:56,619 - root - INFO - --------------- Versions ---------------
+2026-06-11 12:12:56,631 - root - INFO - git branch: b'* main'
+2026-06-11 12:12:56,643 - root - INFO - git hash: b'1c1707bec342f55295e7c15d24f455edbc8e1014'
+2026-06-11 12:12:56,643 - root - INFO - Torch: 2.5.1+cu121
+2026-06-11 12:12:56,643 - root - INFO - ----------------------------------------
+2026-06-11 12:12:56,643 - root - INFO - ------------------ Configuration ------------------
+2026-06-11 12:12:56,643 - root - INFO - Configuration file: /work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/config/AFNO.yaml
+2026-06-11 12:12:56,643 - root - INFO - Configuration name: afno_backbone
+2026-06-11 12:12:56,643 - root - INFO - log_to_wandb False
+2026-06-11 12:12:56,643 - root - INFO - lr 0.0005
+2026-06-11 12:12:56,643 - root - INFO - batch_size 64
+2026-06-11 12:12:56,643 - root - INFO - max_epochs 150
+2026-06-11 12:12:56,643 - root - INFO - prediction_length 2
+2026-06-11 12:12:56,643 - root - INFO - n_initial_conditions 1
+2026-06-11 12:12:56,643 - root - INFO - num_data_workers 1
+2026-06-11 12:12:56,643 - root - INFO - save_raw_forecasts False
+2026-06-11 12:12:56,643 - root - INFO - scheduler CosineAnnealingLR
+2026-06-11 12:12:56,643 - root - INFO - in_channels [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+2026-06-11 12:12:56,644 - root - INFO - out_channels [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+2026-06-11 12:12:56,644 - root - INFO - orography False
+2026-06-11 12:12:56,644 - root - INFO - orography_path None
+2026-06-11 12:12:56,644 - root - INFO - exp_dir /work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/outputs
+2026-06-11 12:12:56,644 - root - INFO - train_data_path /work/r14525127/PDC_Final/fourcastnet_project_integration/ccai_demo/data/FCN_ERA5_data_v0/out_of_sample
+2026-06-11 12:12:56,644 - root - INFO - valid_data_path /work/r14525127/PDC_Final/fourcastnet_project_integration/ccai_demo/data/FCN_ERA5_data_v0/out_of_sample
+2026-06-11 12:12:56,644 - root - INFO - inf_data_path /work/r14525127/PDC_Final/fourcastnet_project_integration/ccai_demo/data/FCN_ERA5_data_v0/out_of_sample
+2026-06-11 12:12:56,644 - root - INFO - time_means_path /work/r14525127/PDC_Final/fourcastnet_project_integration/FCN_weights_v0/stats_v0/time_means.npy
+2026-06-11 12:12:56,644 - root - INFO - global_means_path /work/r14525127/PDC_Final/fourcastnet_project_integration/FCN_weights_v0/stats_v0/global_means.npy
+2026-06-11 12:12:56,644 - root - INFO - global_stds_path /work/r14525127/PDC_Final/fourcastnet_project_integration/FCN_weights_v0/stats_v0/global_stds.npy
+2026-06-11 12:12:56,644 - root - INFO - loss l2
+2026-06-11 12:12:56,644 - root - INFO - dt 1
+2026-06-11 12:12:56,644 - root - INFO - n_history 0
+2026-06-11 12:12:56,644 - root - INFO - prediction_type iterative
+2026-06-11 12:12:56,644 - root - INFO - ics_type default
+2026-06-11 12:12:56,644 - root - INFO - save_channel False
+2026-06-11 12:12:56,644 - root - INFO - masked_acc False
+2026-06-11 12:12:56,644 - root - INFO - maskpath None
+2026-06-11 12:12:56,644 - root - INFO - perturb False
+2026-06-11 12:12:56,644 - root - INFO - add_grid False
+2026-06-11 12:12:56,644 - root - INFO - N_grid_channels 0
+2026-06-11 12:12:56,644 - root - INFO - gridtype sinusoidal
+2026-06-11 12:12:56,644 - root - INFO - roll False
+2026-06-11 12:12:56,644 - root - INFO - num_blocks 8
+2026-06-11 12:12:56,644 - root - INFO - nettype afno
+2026-06-11 12:12:56,644 - root - INFO - patch_size 8
+2026-06-11 12:12:56,645 - root - INFO - width 56
+2026-06-11 12:12:56,645 - root - INFO - modes 32
+2026-06-11 12:12:56,645 - root - INFO - target default
+2026-06-11 12:12:56,645 - root - INFO - normalization zscore
+2026-06-11 12:12:56,645 - root - INFO - log_to_screen True
+2026-06-11 12:12:56,645 - root - INFO - save_checkpoint True
+2026-06-11 12:12:56,645 - root - INFO - enable_nhwc False
+2026-06-11 12:12:56,645 - root - INFO - optimizer_type FusedAdam
+2026-06-11 12:12:56,645 - root - INFO - crop_size_x None
+2026-06-11 12:12:56,645 - root - INFO - crop_size_y None
+2026-06-11 12:12:56,645 - root - INFO - two_step_training False
+2026-06-11 12:12:56,645 - root - INFO - plot_animations False
+2026-06-11 12:12:56,645 - root - INFO - add_noise False
+2026-06-11 12:12:56,645 - root - INFO - noise_std 0
+2026-06-11 12:12:56,645 - root - INFO - world_size 1
+2026-06-11 12:12:56,645 - root - INFO - interp 0
+2026-06-11 12:12:56,645 - root - INFO - use_daily_climatology False
+2026-06-11 12:12:56,645 - root - INFO - afno2d_impl original
+2026-06-11 12:12:56,645 - root - INFO - benchmark_model True
+2026-06-11 12:12:56,645 - root - INFO - compile_model False
+2026-06-11 12:12:56,645 - root - INFO - compile_mode reduce-overhead
+2026-06-11 12:12:56,645 - root - INFO - warmup_model False
+2026-06-11 12:12:56,645 - root - INFO - global_batch_size 64
+2026-06-11 12:12:56,645 - root - INFO - experiment_dir /work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/outputs/original
+2026-06-11 12:12:56,645 - root - INFO - best_checkpoint_path ../FCN_weights_v0/backbone.ckpt
+2026-06-11 12:12:56,645 - root - INFO - resuming False
+2026-06-11 12:12:56,646 - root - INFO - local_rank 0
+2026-06-11 12:12:56,646 - root - INFO - ---------------------------------------------------
+2026-06-11 12:12:56,646 - root - INFO - Inference for 38 initial conditions
+2026-06-11 12:12:56,654 - root - INFO - Getting file stats from /work/r14525127/PDC_Final/fourcastnet_project_integration/ccai_demo/data/FCN_ERA5_data_v0/out_of_sample/2018.h5
+2026-06-11 12:12:56,655 - root - INFO - Number of samples per year: 40
+2026-06-11 12:12:56,655 - root - INFO - Found data at path /work/r14525127/PDC_Final/fourcastnet_project_integration/ccai_demo/data/FCN_ERA5_data_v0/out_of_sample. Number of examples: 40. Image Shape: 720 x 1440 x 20
+2026-06-11 12:12:56,655 - root - INFO - Delta t: 6 hours
+2026-06-11 12:12:56,655 - root - INFO - Including 0 hours of past history in training at a frequency of 6 hours
+2026-06-11 12:12:56,655 - root - INFO - Loading trained model checkpoint from ../FCN_weights_v0/backbone.ckpt
+/work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/inference/inference.py:90: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(checkpoint_fname)
+2026-06-11 12:12:58,465 - root - INFO - Loading inference data
+2026-06-11 12:12:58,465 - root - INFO - Inference data from /work/r14525127/PDC_Final/fourcastnet_project_integration/ccai_demo/data/FCN_ERA5_data_v0/out_of_sample/2018.h5
+2026-06-11 12:12:58,467 - root - INFO - Initial condition 1 of 38
+2026-06-11 12:12:59,257 - root - INFO - Begin autoregressive inference
+2026-06-11 12:12:59,937 - root - INFO - Predicted timestep 0 of 2. z500 RMS Error: 0.0, ACC: 1.0
+2026-06-11 12:13:01,112 - root - INFO - Predicted timestep 1 of 2. z500 RMS Error: 35.07278060913086, ACC: 0.9990821480751038
+2026-06-11 12:13:01,113 - root - INFO - Model forward benchmark: impl=original, compile=False, steps=2, mean=0.397068s, steady_mean=0.218274s, min=0.218274s, max=0.575862s
+2026-06-11 12:13:01,205 - root - INFO - Saving files at /work/r14525127/PDC_Final/fourcastnet_project_integration/FourCastNet/outputs/original/autoregressive_predictions_z500.h5
